@@ -1,0 +1,11 @@
+body{
+    background-image: url(fon2.jpeg);
+    background-size: cover;
+    color: white;
+}
+button{
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+}
